@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^contact/$ /contact/contact.html [L]
